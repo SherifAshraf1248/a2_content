@@ -21,7 +21,7 @@
       "image": "arrive.jpg",
       "definition_ar_short": "يصل",
       "definition_ar_full": "يصل إلى مكان ما بعد رحلة أو انتقال",
-      "example_sentence_en": "The train will arrive at the station at nine.",
+      "example_sentence_en": "The {train|القطار} will arrive at the {station|المحطة} at nine.",
       "example_sentence_ar": "سيصل القطار إلى المحطة في التاسعة.",
       "fill_blank_sentence_en": "We will ___ in Paris tomorrow morning.",
       "distractors_en": ["leave", "return", "wait", "sleep", "forget", "close"]
