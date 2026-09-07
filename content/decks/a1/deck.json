@@ -1,0 +1,38 @@
+{
+  "config": {
+    "deck": "a1",
+    "name": "A1 Vocabulary",
+    "description": "Basic survival words for absolute beginners, for Arabic speakers.",
+    "show_definition_ar": true,
+    "show_definition_en": false,
+    "show_example_ar": true,
+    "pos_display": "ar",
+    "require_image": true,
+    "gloss_cap": 3,
+    "enabled_card_types": [
+      "define",
+      "multiple_choice",
+      "fill_blank"
+    ]
+  },
+  "notes": [
+    {
+      "note_id": "a1_0001",
+      "word_en": "hello",
+      "pos": "تعبير",
+      "image": "hello.jpg",
+      "definition_ar_short": "مرحبًا",
+      "definition_ar_full": "كلمة نستخدمها لتحية شخص أو لبدء مكالمة هاتفية",
+      "example_sentence_en": "I say hello when {I meet|اقابل} my friend.",
+      "fill_blank_sentence_en": "She said ___ when she answered the phone.",
+      "distractors_en": [
+        "goodbye",
+        "thanks",
+        "sorry",
+        "please",
+        "welcome"
+      ],
+      "example_sentence_ar": "أقول مرحبًا عندما أقابل صديقي."
+    }
+  ]
+}
